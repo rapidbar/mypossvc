@@ -15,10 +15,10 @@ async function start() {
         var objectToSend = {
             key_index: 1,
             version: '1.0',
-            login: 'hello@craftybar.hu',
+            login: 'name@website.com',
             tid: '90000015',
             ruid: '201203319999999',
-            currency: 'HUF',
+            currency: 'EUR',
             action: 1
         };
 
